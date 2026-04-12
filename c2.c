@@ -14,5 +14,5 @@ int main(){
         printf("O numero %d e impar\n", n1);
     }
 
-
+     return 0;
 }

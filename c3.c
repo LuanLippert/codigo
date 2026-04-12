@@ -12,9 +12,6 @@ int main(){
     } else{
         printf("O ano %d nao e um ano bissexto", ano);
     }
-        
-
-    
-
+         return 0;
 
 }
